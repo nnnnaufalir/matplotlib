@@ -11,8 +11,8 @@
 # FreeType/Qhull.  As an exception, Matplotlib defaults to the system version
 # of FreeType on AIX.
 #
-#system_freetype = False
-#system_qhull = False
+system_freetype = True
+# system_qhull = False
 
 [packages]
 # Some of Matplotlib's components are optional: the MacOSX backend (installed
